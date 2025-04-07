@@ -29,4 +29,4 @@ elif num%5==0:
 elif num%3==0:
     print("Fizz")
 else:
-    print("It is not divisible by bothe 5 and 3")
+    print("It is not divisible by bothe 5 and 3.")
